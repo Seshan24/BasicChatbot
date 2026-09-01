@@ -14,11 +14,15 @@ A simple rule-based chatbot developed using Python as part of the CodeAlpha Pyth
 
 ## Supported Commands
 
-```text
-hello
-hi
-hey
-how are you
-what is your name
-help
-bye
+```
+You: hello
+Bot: Hi! 👋 Nice to meet you!
+
+You: how are you
+Bot: I'm fine, thanks! 😊 How are you?
+
+You: what is your name
+Bot: I'm CodeBot, a simple Python chatbot. 🤖
+
+You: bye
+Bot: Goodbye! 👋 Have a great day!
