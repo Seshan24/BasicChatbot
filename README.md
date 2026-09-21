@@ -34,7 +34,7 @@ Bot: Goodbye! 👋 Have a great day!
 ```text
 Python-ChatBot/
 │
-├── Python ChatBot.py
+├── CodeAlpha_BasicChatbot.py
 └── README.md
 ```
 
